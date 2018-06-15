@@ -1,4 +1,3 @@
-# AJAX
 # AJAX 
 
 AJAX = Asynchronous JavaScript and XML.
